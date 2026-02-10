@@ -4,7 +4,7 @@
 
 - ANSI_escape_code: https://en.wikipedia.org/wiki/ANSI_escape_code
 
-## Install
+## Install (Mac)
 
 ```shell
 curl -L https://github.com/mazezen/ansic/releases/download/v1.0.0/ansic \
